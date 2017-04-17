@@ -9,4 +9,4 @@ Sampling tested using only two cables directly connected between remote control 
 
 Sending tested using only 33 Ohm resistor and IR diode connected in serie to GPIO output pin.
 
-See github wiki for more info
+See github [wiki](https://github.com/ultrapi/raspir/wiki) for more info
