@@ -9,4 +9,6 @@ Sampling tested using only two cables directly connected between remote control 
 
 Sending tested using only 33 Ohm resistor and IR diode connected in serie to GPIO output pin.
 
+Sampling and sending has been tested and working with Mitsubishi Electric Heatpump MSZ-FH35VE
+
 See github [wiki](https://github.com/ultrapi/raspir/wiki) for more info
